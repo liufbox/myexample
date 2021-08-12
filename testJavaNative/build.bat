@@ -1,11 +1,11 @@
 :: Microsoft Visual Studio 2012 Visual C++ compiler
-SET VC="D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC"
+:: SET VC="D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC"
 :: Microsoft Windows SDK for Windows 7 and .NET Framework 4 
-SET MSDK="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A"
+:: SET MSDK="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A"
 :: Java 1.7.0 update 21
 SET JAVA_HOME="C:\javahome\jdk1.8.0_172"
 
-call %VC%\vcvarsall.bat
+ 
 
 javac HelloNative.java
 javah HelloNative
