@@ -1,8 +1,1 @@
-# myexample  
-记录日常测试和碰到问题解决方案   
-
--------
-
-##testJavaNative   
-JNI 例子
-
+﻿# myexample  1.记录日常学习工作中碰到问题  2.坚持每天一篇-------##java   Java语言相关##others不太好分类的
