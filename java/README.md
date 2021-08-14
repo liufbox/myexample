@@ -1,0 +1,1 @@
+﻿# java相关 -------##testJavaNative   JNI 例子，java与本地其他语言相互调用交互，其他语言为C/C++或汇编等。
